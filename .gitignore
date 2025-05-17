@@ -176,3 +176,5 @@ cython_debug/
 
 /adenv
 .env
+
+.DS_Store
