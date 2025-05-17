@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+python-multipart
+pydantic
+openai
+python-dotenv
+transformers
+peft
+torch
+sentencepiece==0.1.99
